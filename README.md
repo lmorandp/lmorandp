@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Louis Morand</h1>
+<h1 align="center">Hi 👋, I'm Louis Moran</h1>
 <h3 align="center">A passionate Full-stack Developer @ Hack-CMP</h3>
 
 - 🔭 I’m currently working on **Freelancing platform using React, Node, Angular, Vue, C#, Unity, React Native, Flutter and PosgreSQL**
